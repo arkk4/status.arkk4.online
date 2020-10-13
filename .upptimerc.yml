@@ -4,8 +4,8 @@ user-agent: arkk4
 sites:
   - name: devmap.arkk4.online
     url: http://devmap.arkk4.online
-#  - name: Wikipedia
-#    url: https://en.wikipedia.org
+  - name: Wiki
+    url: http://wiki.arkk4.online
 #  - name: Internet Archive
 #    url: https://archive.org
 #  - name: Hacker News
