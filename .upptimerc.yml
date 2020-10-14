@@ -35,5 +35,5 @@ status-website:
   cname: status.arkk4.online
   logoUrl: https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/008/123/original/monitoring-system.png
   name: Status
-  introTitle: "**STATUS PAGE** статус внутренних сервисов и аптайм монитор by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data 
+  introTitle: "статус внутренних сервисов"
+  introMessage: status.arkk4.online
