@@ -12,7 +12,7 @@
     "url": "http://zabbix64.arkk4.online",
     "slug": "zabbix64-arkk4-online",
     "status": "down",
-    "uptime": "0.07",
+    "uptime": "0.05",
     "time": 3427
   },
   {
@@ -20,7 +20,7 @@
     "url": "http://zabbix-api.arkk4.online",
     "slug": "zabbix-api-arkk4-online",
     "status": "down",
-    "uptime": "0.02",
+    "uptime": "0.01",
     "time": 0
   },
   {
@@ -35,24 +35,24 @@
     "name": "ghost.arkk4.online",
     "url": "http://ghost.arkk4.online",
     "slug": "ghost-arkk4-online",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 444
+    "status": "down",
+    "uptime": "99.96",
+    "time": 414
   },
   {
     "name": "wiki.arkk4.online",
     "url": "http://wiki.arkk4.online",
     "slug": "wiki-arkk4-online",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 796
+    "status": "down",
+    "uptime": "99.99",
+    "time": 697
   },
   {
     "name": "devbox-01.arkk4.online",
     "url": "http://devbox-01.arkk4.online",
     "slug": "devbox-01-arkk4-online",
     "status": "down",
-    "uptime": "0.02",
+    "uptime": "0.01",
     "time": 0
   },
   {
@@ -60,7 +60,7 @@
     "url": "http://devbox-02.arkk4.online",
     "slug": "devbox-02-arkk4-online",
     "status": "down",
-    "uptime": "0.02",
+    "uptime": "0.01",
     "time": 0
   },
   {
@@ -68,7 +68,7 @@
     "url": "http://devbox-03.arkk4.online",
     "slug": "devbox-03-arkk4-online",
     "status": "down",
-    "uptime": "0.02",
+    "uptime": "0.01",
     "time": 0
   }
 ]
