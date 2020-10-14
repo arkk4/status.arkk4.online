@@ -11,9 +11,9 @@
     "name": "zabbix64.arkk4.online",
     "url": "http://zabbix64.arkk4.online",
     "slug": "zabbix64-arkk4-online",
-    "status": "down",
-    "uptime": "0.02",
-    "time": 3427
+    "status": "up",
+    "uptime": "100.00",
+    "time": 3050
   },
   {
     "name": "zabbix-api.arkk4.online",
