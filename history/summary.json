@@ -27,25 +27,25 @@
     "name": "portainer.arkk4.online",
     "url": "http://portainer.arkk4.online",
     "slug": "portainer-arkk4-online",
-    "status": "down",
-    "uptime": "99.98",
-    "time": 382
+    "status": "up",
+    "uptime": "100.00",
+    "time": 370
   },
   {
     "name": "ghost.arkk4.online",
     "url": "http://ghost.arkk4.online",
     "slug": "ghost-arkk4-online",
     "status": "down",
-    "uptime": "99.99",
+    "uptime": "99.36",
     "time": 1761
   },
   {
     "name": "wiki.arkk4.online",
     "url": "http://wiki.arkk4.online",
     "slug": "wiki-arkk4-online",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1739
+    "time": 1654
   },
   {
     "name": "devbox-01.arkk4.online",
