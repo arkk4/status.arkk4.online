@@ -1,6 +1,6 @@
 - url: http://portainer.arkk4.online
-- status: down
-- code: 502
-- responseTime: 401
-- lastUpdated: 2020-10-15T02:27:15.008Z
+- status: up
+- code: 200
+- responseTime: 295
+- lastUpdated: 2020-10-15T02:37:54.074Z
 - startTime: 2020-10-13T22:45:21.925Z
