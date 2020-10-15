@@ -19,9 +19,9 @@
     "name": "zabbix-api.arkk4.online",
     "url": "http://zabbix-api.arkk4.online",
     "slug": "zabbix-api-arkk4-online",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 104
+    "time": 148
   },
   {
     "name": "portainer.arkk4.online",
@@ -36,7 +36,7 @@
     "url": "http://ghost.arkk4.online",
     "slug": "ghost-arkk4-online",
     "status": "down",
-    "uptime": "98.86",
+    "uptime": "98.13",
     "time": 1761
   },
   {
