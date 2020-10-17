@@ -1,6 +1,6 @@
 - url: http://ghost.arkk4.online
-- status: down
-- code: 502
-- responseTime: 313
-- lastUpdated: 2020-10-16T23:13:05.754Z
+- status: up
+- code: 200
+- responseTime: 3043
+- lastUpdated: 2020-10-17T13:27:15.100Z
 - startTime: 2020-10-13T22:45:24.230Z
