@@ -1,6 +1,6 @@
 - url: http://zabbix-api.arkk4.online
-- status: down
-- code: 502
-- responseTime: 3441
-- lastUpdated: 2020-10-18T23:13:47.331Z
+- status: up
+- code: 200
+- responseTime: 361
+- lastUpdated: 2020-10-19T03:23:30.808Z
 - startTime: 2020-10-13T22:45:18.150Z
