@@ -1,7 +1,7 @@
 - url: http://zabbix-api.arkk4.online
 - status: down
 - code: 502
-- responseTime: 3557
-- lastUpdated: 2020-10-26T23:14:17.785Z
+- responseTime: 3448
+- lastUpdated: 2020-10-27T23:14:24.490Z
 - startTime: 2020-10-13T22:45:18.150Z
 - generator: Upptime <https://github.com/upptime/upptime>
