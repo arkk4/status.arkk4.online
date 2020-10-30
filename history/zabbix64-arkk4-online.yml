@@ -1,7 +1,7 @@
 - url: http://zabbix64.arkk4.online
 - status: down
 - code: 502
-- responseTime: 3556
-- lastUpdated: 2020-10-29T23:07:18.670Z
+- responseTime: 3510
+- lastUpdated: 2020-10-30T23:10:11.289Z
 - startTime: 2020-10-13T22:45:04.612Z
 - generator: Upptime <https://github.com/upptime/upptime>
