@@ -5,23 +5,23 @@
     "slug": "devmap-arkk4-online",
     "status": "up",
     "uptime": "100.00",
-    "time": 840
+    "time": 827
   },
   {
     "name": "zabbix64.arkk4.online",
     "url": "http://zabbix64.arkk4.online",
     "slug": "zabbix64-arkk4-online",
     "status": "down",
-    "uptime": "8.82",
-    "time": 3544
+    "uptime": "8.51",
+    "time": 3540
   },
   {
     "name": "zabbix-api.arkk4.online",
     "url": "http://zabbix-api.arkk4.online",
     "slug": "zabbix-api-arkk4-online",
     "status": "down",
-    "uptime": "27.81",
-    "time": 3133
+    "uptime": "26.84",
+    "time": 3141
   },
   {
     "name": "portainer.arkk4.online",
@@ -29,23 +29,23 @@
     "slug": "portainer-arkk4-online",
     "status": "up",
     "uptime": "100.00",
-    "time": 562
+    "time": 558
   },
   {
     "name": "ghost.arkk4.online",
     "url": "http://ghost.arkk4.online",
     "slug": "ghost-arkk4-online",
     "status": "down",
-    "uptime": "17.85",
-    "time": 3661
+    "uptime": "17.22",
+    "time": 3929
   },
   {
     "name": "wiki.arkk4.online",
     "url": "http://wiki.arkk4.online",
     "slug": "wiki-arkk4-online",
     "status": "down",
-    "uptime": "23.34",
-    "time": 1351
+    "uptime": "22.52",
+    "time": 1323
   },
   {
     "name": "devbox-01.arkk4.online",
