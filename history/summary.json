@@ -12,16 +12,16 @@
     "url": "http://zabbix-01.arkk4.com",
     "slug": "zabbix-01-arkk4-com",
     "status": "down",
-    "uptime": "-78.71",
+    "uptime": "-19.93",
     "time": 3448
   },
   {
     "name": "zabbix-02.arkk4.com",
     "url": "http://zabbix-02.arkk4.com",
     "slug": "zabbix-02-arkk4-com",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 385
+    "status": "down",
+    "uptime": "98.70",
+    "time": 1402
   },
   {
     "name": "portainer.arkk4.com",
@@ -44,7 +44,7 @@
     "url": "http://wiki.arkk4.com",
     "slug": "wiki-arkk4-com",
     "status": "down",
-    "uptime": "-91.94",
+    "uptime": "-21.76",
     "time": 317
   },
   {
