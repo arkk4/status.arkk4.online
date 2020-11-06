@@ -3,16 +3,16 @@
     "name": "devmap.arkk4.online",
     "url": "http://devmap.arkk4.online",
     "slug": "devmap-arkk4-online",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 788
+    "time": 782
   },
   {
     "name": "zabbix64.arkk4.online",
     "url": "http://zabbix64.arkk4.online",
     "slug": "zabbix64-arkk4-online",
     "status": "down",
-    "uptime": "7.74",
+    "uptime": "7.73",
     "time": 3537
   },
   {
@@ -20,7 +20,7 @@
     "url": "http://zabbix-api.arkk4.online",
     "slug": "zabbix-api-arkk4-online",
     "status": "down",
-    "uptime": "24.41",
+    "uptime": "24.40",
     "time": 3158
   },
   {
