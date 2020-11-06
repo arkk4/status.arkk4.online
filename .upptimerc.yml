@@ -1,25 +1,25 @@
 owner: arkk4
-repo: status.arkk4.online
+repo: services.arkk4.com
 user-agent: arkk4
 sites:
-  - name: devmap.arkk4.online
-    url: http://devmap.arkk4.online
-  - name: zabbix64.arkk4.online
-    url: http://zabbix64.arkk4.online
-  - name: zabbix-api.arkk4.online
-    url: http://zabbix-api.arkk4.online
-  - name: portainer.arkk4.online
-    url: http://portainer.arkk4.online
-  - name: ghost.arkk4.online
-    url: http://ghost.arkk4.online
-  - name: wiki.arkk4.online
-    url: http://wiki.arkk4.online  
-  - name: devbox-01.arkk4.online
-    url: http://devbox-01.arkk4.online
-  - name: devbox-02.arkk4.online
-    url: http://devbox-02.arkk4.online
-  - name: devbox-03.arkk4.online
-    url: http://devbox-03.arkk4.online    
+  - name: zabbix.arkk4.com
+    url: http://zabbix.arkk4.com
+  - name: zabbix-01.arkk4.com
+    url: http://zabbix-01.arkk4.com
+  - name: zabbix-02.arkk4.com
+    url: http://zabbix-02.arkk4.com
+  - name: portainer.arkk4.com
+    url: http://portainer.arkk4.com
+  - name: blog.arkk4.com
+    url: http://blog.arkk4.com
+  - name: wiki.arkk4.com
+    url: http://wiki.arkk4.com  
+  - name: status.arkk4.com
+    url: http://status.arkk4.com
+#  - name: devbox-02.arkk4.online
+#    url: http://devbox-02.arkk4.online
+#  - name: devbox-03.arkk4.online
+#    url: http://devbox-03.arkk4.online    
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
 #  - name: Broken Site
@@ -32,8 +32,8 @@ sites:
 #assignees:
 #  - AnandChowdhary
 status-website:
-  cname: status.arkk4.online
+  cname: services.arkk4.com
   logoUrl: https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/008/123/original/monitoring-system.png
   name: Status
   introTitle: "статус внутренних сервисов"
-  introMessage: status.arkk4.online
+  introMessage: services.arkk4.online
