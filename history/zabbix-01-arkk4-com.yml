@@ -1,7 +1,7 @@
 - url: http://zabbix-01.arkk4.com
-- status: down
+- status: up
 - code: 523
-- responseTime: 3263
-- lastUpdated: 2020-11-18T23:12:25.867Z
+- responseTime: 3219
+- lastUpdated: 2020-11-19T06:48:22.097Z
 - startTime: 2020-11-06T22:57:05.516Z
 - generator: Upptime <https://github.com/upptime/upptime>
