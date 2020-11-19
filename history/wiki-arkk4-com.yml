@@ -1,7 +1,7 @@
 - url: http://wiki.arkk4.com
-- status: up
+- status: down
 - code: 523
-- responseTime: 3184
-- lastUpdated: 2020-11-19T06:48:36.916Z
+- responseTime: 1864
+- lastUpdated: 2020-11-19T06:56:48.591Z
 - startTime: 2020-11-06T22:57:17.974Z
 - generator: Upptime <https://github.com/upptime/upptime>
