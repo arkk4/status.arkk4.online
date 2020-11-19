@@ -1,7 +1,7 @@
 - url: http://portainer.arkk4.com
-- status: down
+- status: up
 - code: 523
-- responseTime: 2875
-- lastUpdated: 2020-11-18T23:12:44.680Z
+- responseTime: 2472
+- lastUpdated: 2020-11-19T06:48:28.317Z
 - startTime: 2020-11-06T22:57:16.390Z
 - generator: Upptime <https://github.com/upptime/upptime>
