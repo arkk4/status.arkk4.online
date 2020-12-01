@@ -4,48 +4,48 @@
     "url": "http://zabbix.arkk4.com",
     "slug": "zabbix-arkk4-com",
     "status": "up",
-    "uptime": "87.83%",
-    "time": 659
+    "uptime": "88.34%",
+    "time": 648
   },
   {
     "name": "zabbix-01.arkk4.com",
     "url": "http://zabbix-01.arkk4.com",
     "slug": "zabbix-01-arkk4-com",
     "status": "down",
-    "uptime": "53.43%",
-    "time": 3192
+    "uptime": "51.21%",
+    "time": 3141
   },
   {
     "name": "zabbix-02.arkk4.com",
     "url": "http://zabbix-02.arkk4.com",
     "slug": "zabbix-02-arkk4-com",
     "status": "down",
-    "uptime": "53.47%",
-    "time": 2618
+    "uptime": "51.24%",
+    "time": 2636
   },
   {
     "name": "portainer.arkk4.com",
     "url": "http://portainer.arkk4.com",
     "slug": "portainer-arkk4-com",
     "status": "down",
-    "uptime": "4.84%",
-    "time": 2905
+    "uptime": "4.64%",
+    "time": 2914
   },
   {
     "name": "blog.arkk4.com",
     "url": "http://blog.arkk4.com",
     "slug": "blog-arkk4-com",
     "status": "down",
-    "uptime": "4.84%",
-    "time": 2891
+    "uptime": "4.64%",
+    "time": 2892
   },
   {
     "name": "wiki.arkk4.com",
     "url": "http://wiki.arkk4.com",
     "slug": "wiki-arkk4-com",
     "status": "down",
-    "uptime": "53.43%",
-    "time": 2935
+    "uptime": "51.21%",
+    "time": 2932
   },
   {
     "name": "services.arkk4.com",
@@ -53,6 +53,6 @@
     "slug": "services-arkk4-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 86
+    "time": 87
   }
 ]
